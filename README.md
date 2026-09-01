@@ -18,7 +18,7 @@
 
 ```yaml
 Name          : Manikanta 
-Education     : B.Tech - Computer Science Engineering
+Education     : B.Tech - Computer Science and Engineering
 Currently      : Learning ADA & DevOps
 Interests      : Web Development • AI & Machine Learning
 Languages      : Java • C • Python
