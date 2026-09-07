@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manikanta </h1>
 
 <p align="center">
-  <b>Computer Science Engineering Student</b> • <b>Web Developer</b> • <b>AI & ML Enthusiast</b>
+  <b>Computer Science and Engineering Student</b> • <b>Web Developer</b> • <b>AI & ML Enthusiast</b>
 </p>
 
 <p align="center">
